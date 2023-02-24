@@ -30,6 +30,8 @@ Para poder hacer el despliegue es necesario contar con:
 
 ![Secrets](images/secrets.png)
 
+**NOTA**: por si es de utilidad, [aquí](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-google-kubernetes-engine) dejo un manual para saber cómo extraer la Key de GCP.
+
 - Y modificar las variables dentro de los scripts la cartpeta ".github/workflows" para que se correspondan con vuestro entorno:
 
 ```console
